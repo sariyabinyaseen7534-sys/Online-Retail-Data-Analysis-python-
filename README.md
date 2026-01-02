@@ -1,0 +1,1 @@
+A concise EDA of an online retail dataset exploring sales trends, customer behavior, and product performance. Key insights were generated through feature engineering and 12 visualizations using Matplotlib and Seaborn, supporting decisions in customer segmentation, inventory planning, and demand analysis.
